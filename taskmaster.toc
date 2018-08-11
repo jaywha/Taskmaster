@@ -1,0 +1,22 @@
+## Interface: 80000
+
+## Title: Taskmaster
+## Author: jayw685@gmail.com
+## Version: 0.2
+## X-ReleaseType: 
+
+## Notes: Allows you to manage quests and gather info on them faster. Can also suggest quests and the best route to complete zones.
+
+## DefaultState: Enabled
+## LoadOnDemand: 0
+
+## LoadManagers: AddonLoader
+## X-LoadOn-Always: delayed
+
+## OptionalDeps: 
+## X-Embeds: 
+
+## X-Category: Questing
+## X-Website: 
+
+taskmaster.lua
